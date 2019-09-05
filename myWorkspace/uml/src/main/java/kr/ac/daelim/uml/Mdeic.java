@@ -1,6 +1,6 @@
 package kr.ac.daelim.uml;
 
-public class Mdeic {
+public class Mdeic extends Unit {
 	
 	public void move() {
 		System.out.println("유닛이 이동한다");
