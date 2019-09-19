@@ -399,7 +399,7 @@
 											"top": 61,
 											"width": 163.642578125,
 											"height": 13,
-											"text": "+Move()",
+											"text": "-Move()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1006,7 +1006,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFtSCxgOiYTZKE="
 							},
-							"name": "Move"
+							"name": "Move",
+							"visibility": "private"
 						},
 						{
 							"_type": "UMLOperation",
