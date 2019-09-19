@@ -135,7 +135,7 @@
 											"top": 262,
 											"width": 191,
 											"height": 13,
-											"text": "-Name",
+											"text": "-name",
 											"horizontalAlignment": 0
 										},
 										{
@@ -152,7 +152,7 @@
 											"top": 277,
 											"width": 191,
 											"height": 13,
-											"text": "+Health",
+											"text": "+health",
 											"horizontalAlignment": 0
 										},
 										{
@@ -169,7 +169,7 @@
 											"top": 292,
 											"width": 191,
 											"height": 13,
-											"text": "#AttackPower",
+											"text": "#attackPower",
 											"horizontalAlignment": 0
 										}
 									],
@@ -345,7 +345,7 @@
 											"top": 63,
 											"width": 164.37255859375,
 											"height": 13,
-											"text": "unit"
+											"text": "Unit"
 										},
 										{
 											"_type": "LabelView",
@@ -417,7 +417,7 @@
 											"top": 86,
 											"width": 164.37255859375,
 											"height": 13,
-											"text": "+Name",
+											"text": "+name",
 											"horizontalAlignment": 0
 										},
 										{
@@ -434,7 +434,7 @@
 											"top": 101,
 											"width": 164.37255859375,
 											"height": 13,
-											"text": "+Health",
+											"text": "+health",
 											"horizontalAlignment": 0
 										}
 									],
@@ -997,7 +997,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFtAAmi7XliZug="
 							},
-							"name": "Name",
+							"name": "name",
 							"visibility": "private"
 						},
 						{
@@ -1006,7 +1006,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFtAAmi7XliZug="
 							},
-							"name": "Health"
+							"name": "health"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1014,7 +1014,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFtAAmi7XliZug="
 							},
-							"name": "AttackPower",
+							"name": "attackPower",
 							"visibility": "protected"
 						}
 					],
@@ -1062,7 +1062,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "unit",
+					"name": "Unit",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -1085,7 +1085,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFtABncaXnJaxk="
 							},
-							"name": "Name"
+							"name": "name"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1093,7 +1093,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFtABncaXnJaxk="
 							},
-							"name": "Health"
+							"name": "health"
 						}
 					],
 					"operations": [
