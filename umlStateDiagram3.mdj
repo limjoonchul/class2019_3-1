@@ -5383,7 +5383,7 @@
 											"top": 823,
 											"width": 70.07177734375,
 											"height": 13,
-											"text": "Responsed"
+											"text": "Reopend"
 										},
 										{
 											"_type": "LabelView",
@@ -6732,7 +6732,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFt/GzA7SfMrNU="
 							},
-							"name": "Responsed",
+							"name": "Reopend",
 							"regions": [
 								{
 									"_type": "UMLRegion",
